@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A7E7F4AA-EAB3-4812-9465-F84DC302F1D0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>videoGame</RootNamespace>
+    <AssemblyName>videoGame</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BlueBaddy">
+      <HintPath>..\..\Mycomponents\BlueBaddy.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=11.7.0.0, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\c#\components&amp;scodes&amp;softs\soft\dot net_new\11.3\Crack\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="f_in_box__lib, Version=3.1.2.0, Culture=neutral, PublicKeyToken=55fbbf822305a8d1">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\f_in_box__lib.dll</HintPath>
+    </Reference>
+    <Reference Include="GreenBuddy">
+      <HintPath>..\..\Mycomponents\GreenBuddy.dll</HintPath>
+    </Reference>
+    <Reference Include="IrisSkin2, Version=2006.3.22.45, Culture=neutral, PublicKeyToken=4f90fce1210833dc, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web">
+      <HintPath>C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WinCircu">
+      <HintPath>C:\Users\abolfazl\Documents\visual studio 2010\Projects\WinCircu\WinCircu\bin\Debug\WinCircu.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="flashPlay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="flashPlay.Designer.cs">
+      <DependentUpon>flashPlay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jayeze.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jayeze.Designer.cs">
+      <DependentUpon>jayeze.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jayezeArm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jayezeArm.Designer.cs">
+      <DependentUpon>jayezeArm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jayezeOpen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jayezeOpen.Designer.cs">
+      <DependentUpon>jayezeOpen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="jayezeSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="jayezeSelect.Designer.cs">
+      <DependentUpon>jayezeSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main.Designer.cs">
+      <DependentUpon>main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="person.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="person.Designer.cs">
+      <DependentUpon>person.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="publicItem.cs" />
+    <EmbeddedResource Include="flashPlay.resx">
+      <DependentUpon>flashPlay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jayeze.resx">
+      <DependentUpon>jayeze.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jayezeArm.resx">
+      <DependentUpon>jayezeArm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jayezeOpen.resx">
+      <DependentUpon>jayezeOpen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="jayezeSelect.resx">
+      <DependentUpon>jayezeSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main.resx">
+      <DependentUpon>main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="person.resx">
+      <DependentUpon>person.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Embedded_Movies\FLVPlayer.fla" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Wallpaper %2837%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\01.png" />
+    <EmbeddedResource Include="Embedded_Movies\FLVPlayer.swf" />
+    <Content Include="Embedded_Movies\movie.swf" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

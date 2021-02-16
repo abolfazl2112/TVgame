@@ -1,0 +1,90 @@
+c:\users\abolfazl\documents\visual studio 2010\Projects\videoGame\videoGame\bin\Debug\videoGame.exe
+c:\users\abolfazl\documents\visual studio 2010\Projects\videoGame\videoGame\bin\Debug\videoGame.pdb
+c:\users\abolfazl\documents\visual studio 2010\Projects\videoGame\videoGame\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\abolfazl\documents\visual studio 2010\Projects\videoGame\videoGame\obj\x86\Debug\videoGame.Form1.resources
+c:\users\abolfazl\documents\visual studio 2010\Projects\videoGame\videoGame\obj\x86\Debug\videoGame.person.resources
+c:\users\abolfazl\documents\visual studio 2010\Projects\videoGame\videoGame\obj\x86\Debug\videoGame.Properties.Resources.resources
+c:\users\abolfazl\documents\visual studio 2010\Projects\videoGame\videoGame\obj\x86\Debug\videoGame.qustions.resources
+c:\users\abolfazl\documents\visual studio 2010\Projects\videoGame\videoGame\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\abolfazl\documents\visual studio 2010\Projects\videoGame\videoGame\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\abolfazl\documents\visual studio 2010\Projects\videoGame\videoGame\obj\x86\Debug\videoGame.exe
+c:\users\abolfazl\documents\visual studio 2010\Projects\videoGame\videoGame\obj\x86\Debug\videoGame.pdb
+c:\users\abolfazl\documents\visual studio 2010\Projects\videoGame\videoGame\obj\x86\Debug\videoGame.main.resources
+C:\Users\abolfazl\Documents\Visual Studio 2010\Projects\videoGame\videoGame\bin\Debug\f_in_box.dll
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\obj\x86\Debug\videoGame.exe
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\obj\x86\Debug\videoGame.pdb
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\bin\Debug\videoGame.exe
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\bin\Debug\videoGame.pdb
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\bin\Debug\f_in_box.dll
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\obj\x86\Debug\videoGame.Form1.resources
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\obj\x86\Debug\videoGame.main.resources
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\obj\x86\Debug\videoGame.person.resources
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\obj\x86\Debug\videoGame.Properties.Resources.resources
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\obj\x86\Debug\videoGame.flashPlay.resources
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\obj\x86\Debug\videoGame.jayeze.resources
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\obj\x86\Debug\videoGame.jayezeSelect.resources
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\obj\x86\Debug\videoGame.jayezeOpen.resources
+E:\videoGame2\videoGame\obj\x86\Debug\videoGame.exe
+E:\videoGame2\videoGame\obj\x86\Debug\videoGame.pdb
+E:\videoGame2\videoGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\videoGame2\videoGame\obj\x86\Debug\videoGame.flashPlay.resources
+E:\videoGame2\videoGame\obj\x86\Debug\videoGame.Form1.resources
+E:\videoGame2\videoGame\obj\x86\Debug\videoGame.jayeze.resources
+E:\videoGame2\videoGame\obj\x86\Debug\videoGame.jayezeOpen.resources
+E:\videoGame2\videoGame\obj\x86\Debug\videoGame.jayezeSelect.resources
+E:\videoGame2\videoGame\obj\x86\Debug\videoGame.main.resources
+E:\videoGame2\videoGame\obj\x86\Debug\videoGame.person.resources
+E:\videoGame2\videoGame\obj\x86\Debug\videoGame.Properties.Resources.resources
+E:\videoGame2\videoGame\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\videoGame2\videoGame\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\videoGame2\videoGame\bin\Debug\videoGame.exe
+E:\videoGame2\videoGame\bin\Debug\videoGame.pdb
+E:\videoGame2\videoGame\bin\Debug\WinCircu.dll
+E:\videoGame2\videoGame\bin\Debug\WinCircu.pdb
+E:\videoGame2\videoGame\bin\Debug\f_in_box.dll
+E:\videoGame2\videoGame\obj\x86\Debug\videoGame.jayezeArm.resources
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\bin\Debug\WinCircu.dll
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\bin\Debug\WinCircu.pdb
+C:\Users\abolfazl\Desktop\videoGame2\videoGame\obj\x86\Debug\videoGame.jayezeArm.resources
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.exe
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.pdb
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\bin\Debug\videoGame.exe
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\bin\Debug\videoGame.pdb
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\bin\Debug\WinCircu.pdb
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\bin\Debug\f_in_box.dll
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.flashPlay.resources
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.Form1.resources
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.jayeze.resources
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.jayezeArm.resources
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.jayezeOpen.resources
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.jayezeSelect.resources
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.main.resources
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.person.resources
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.Properties.Resources.resources
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\project\C#########\کارهای انجام شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.exe
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.pdb
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.flashPlay.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.Form1.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.jayeze.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.jayezeArm.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.jayezeOpen.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.jayezeSelect.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.main.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.person.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.Properties.Resources.resources
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\bin\Debug\videoGame.exe
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\bin\Debug\videoGame.pdb
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\bin\Debug\WinCircu.pdb
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\bin\Debug\f_in_box.dll
+E:\project\C#########\پروژه های طراحی شده\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\bin\Debug\DevComponents.DotNetBar2.dll
+L:\Project\project - laptop\C#########\Completed Project\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.exe
+L:\Project\project - laptop\C#########\Completed Project\نرم افزارهای من\بازی ویدیویی شبکه خراسان جنوبی\videoGame\obj\x86\Debug\videoGame.pdb
